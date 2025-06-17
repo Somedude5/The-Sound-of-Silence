@@ -9,6 +9,8 @@
 - Global fade-in setting for track starts
 - Fully synchronized playback across GM and players
 - UI buttons embedded directly into the playlist header
+  ![image](https://github.com/user-attachments/assets/e316f207-8f0f-410f-87fc-3eb044409b93)
+
 - Fixes native Foundry playlist button overflow issues
 
 ## Installation
@@ -22,7 +24,9 @@
 - Click the toggle buttons on each playlist header to enable:
   - Silent gaps between sounds
   - Automatic crossfading
-- Set fade-in, auto crossfade, or the silence between tracks through the playlist menu per soundtrack.
+- Set fade-in, auto crossfade, or the silence between tracks through the playlist menu per soundtrack
+  ![image](https://github.com/user-attachments/assets/33633878-b342-45b4-bc92-d601526de749)
+
 - The module works immediately with existing playlists—no track configuration required.
 
 ## Compatibility
