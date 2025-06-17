@@ -1,4 +1,4 @@
-Sound of Silence
+atSound of Silence
 Copyright © 2025 Somedude5
 All rights reserved. Published June 16, 2025.
 
@@ -11,6 +11,6 @@ You may NOT:
 
 If you wish to modify, translate, fork, or incorporate this code into other software, you must request and receive written permission from the author.
 
-For licensing requests, bug reports, or contributions, please contact: https://github.com/Somedude5/The-Sound-of-Silence/issues
+For licensing requests, bug reports, or contributions, please contact me at: https://github.com/Somedude5/The-Sound-of-Silence/issues
 
 This software is provided "as is" without warranty of any kind.
