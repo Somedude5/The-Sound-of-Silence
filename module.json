@@ -1,0 +1,38 @@
+{
+  "id": "the-sound-of-silence",
+  "title": "The Sound of Silence",
+  "description": "Adds random or static silence between playlist tracks, with natural fading and per-playlist controls.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Fligo11",
+      "discord": "Fligo11",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+        "compatibility": {
+          "verified": "1.12.7.1"
+        }
+      }
+    ]
+  },
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/main.css"],
+  "url": "https://github.com/YourGitHubUser/the-sound-of-silence",
+  "manifest": "https://yourdomain.com/module.json",
+  "download": "https://yourdomain.com/the-sound-of-silence.zip",
+  "license": "MIT",
+  "readme": "README.md",
+  "bugs": "https://github.com/YourGitHubUser/the-sound-of-silence/issues",
+  "flags": {}
+}

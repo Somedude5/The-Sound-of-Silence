@@ -1,0 +1,69 @@
+/* 1. Ensure the header is a flex container */
+.playlist .playlist-header.flexrow {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px; /* Adds a little space between elements */
+}
+
+/* 2. Target the playlist name (h4) */
+.playlist .playlist-header .entry-name {
+  /* Allow the name to shrink but not grow unnecessarily */
+  flex: 0 1 auto; 
+  min-width: 0; /* CRITICAL for flexbox truncation */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* 3. Target the caret icon inside the h4 */
+.playlist .playlist-header .entry-name .collapse {
+  /* This effectively 'hides' the original caret by making it take no space */
+  display: none;
+}
+
+/* 4. Create a NEW, always-visible caret using a ::after pseudo-element */
+.playlist .playlist-header .entry-name::after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900; /* Use the solid style */
+  display: inline-block;
+  margin-left: 6px; /* Space between name and caret */
+  flex-shrink: 0; /* Prevent the caret from shrinking */
+  content: "\f0d8"; /* Angle-up icon */
+}
+
+/* 5. Change the caret direction when the playlist is collapsed */
+.playlist.collapsed .playlist-header .entry-name::after {
+  content: "\f0d7"; /* Angle-down icon */
+}
+
+
+/* 6. Ensure the sound controls do not shrink */
+.playlist .playlist-header .sound-controls {
+  flex-shrink: 0;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+/* ================================================= */
+/* 🎚️ Toggle Button Visual States — SOS & Crossfade */
+/* ================================================= */
+
+/* === Sound of Silence + Crossfade button color cues === */
+a.sos-toggle,
+a.xfade-toggle {
+  transition: background-color 0.2s ease;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+a.sos-toggle.active,
+a.xfade-toggle.active {
+  background-color: rgba(0, 200, 0, 0.25); /* faint green when ON */
+}
+
+a.sos-toggle:not(.active),
+a.xfade-toggle:not(.active) {
+  background-color: rgba(200, 0, 0, 0.2); /* faint red when OFF */
+}
