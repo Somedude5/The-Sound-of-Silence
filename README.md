@@ -54,6 +54,6 @@ This software is copyrighted © 2025 Somedude5.
 
 You are free to use and share this module for personal, non-commercial use. Modification, redistribution, or commercial use is not permitted without written permission.
 
-For questions or licensing inquiries, please contact: [your email or GitHub link]
+For questions or licensing inquiries, please contact me.
 
 See the full license terms in the `LICENSE.txt` file.
