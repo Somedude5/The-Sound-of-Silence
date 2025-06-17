@@ -11,7 +11,6 @@
 - UI buttons embedded directly into the playlist header
 - ![image](https://github.com/user-attachments/assets/e316f207-8f0f-410f-87fc-3eb044409b93)
 
-- Fixes native Foundry playlist button overflow issues
 
 ## Installation
 
@@ -47,6 +46,7 @@
 ## Known Issues
 
 - Pausing during a fade-in may restart the fade from the beginning
+- native Foundry playlist button overflow issue which pushes the buttons off the UI if the name is too long
 
 ## License
 
