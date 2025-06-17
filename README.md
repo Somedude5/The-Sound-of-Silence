@@ -27,6 +27,7 @@
 - Set fade-in, auto crossfade, or the silence between tracks through the playlist menu per soundtrack
 - ![image](https://github.com/user-attachments/assets/33633878-b342-45b4-bc92-d601526de749)
 
+- You may only have either Auto Crossfade or Enable Silence activated at a time due to playback issues
 - The module works immediately with existing playlists—no track configuration required.
 
 ## Compatibility
@@ -38,7 +39,7 @@
 ## Planned Features
 
 - Crossfade between different playlists
-- Configurable silence gap patterns
+- Allowing Silent Gaps and Crossfade to work together
 - Advanced shuffle/cycle behavior
 - UI changes
 - Code simplification and standardization/performance fixes
