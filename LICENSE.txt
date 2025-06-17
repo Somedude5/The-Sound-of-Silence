@@ -1,0 +1,16 @@
+Sound of Silence
+Copyright © 2025 Somedude5
+All rights reserved. Published June 16, 2025.
+
+Permission is granted to use and share this software freely for personal, non-commercial use with attribution.
+
+You may NOT:
+- Modify or create derivative works based on this software
+- Distribute altered or repackaged versions
+- Use this software in commercial products, paid modules, or monetized campaigns
+
+If you wish to modify, translate, fork, or incorporate this code into other software, you must request and receive written permission from the author.
+
+For licensing requests, bug reports, or contributions, please contact: [your email or GitHub issue link]
+
+This software is provided "as is" without warranty of any kind.
