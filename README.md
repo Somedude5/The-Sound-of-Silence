@@ -1,6 +1,6 @@
 # The Sound of Silence
 
-**Sound of Silence** is a system-agnostic Foundry VTT module that improves the way ambient music is played and transitioned during your games. It introduces realistic silence gaps, smooth fade-ins, and automatic crossfades between tracks without requiring manual playlist management.
+**The Sound of Silence** is a system-agnostic Foundry VTT module that improves the way ambient music is played and transitioned during your games. It introduces realistic silence gaps, smooth fade-ins, and automatic crossfades between tracks without requiring manual playlist management.
 
 ## Features
 
@@ -32,8 +32,8 @@
 ## Compatibility
 
 - Works with all game systems (system-agnostic).
-- Requires Foundry VTT v11 or later.
-- Compatible with core audio features and most other playlist-enhancing modules.
+- Requires Foundry VTT V12 or later. NOTE: V2.0.0 is V13 compatible but V1.0.0 is V12 compatible.
+- Compatible with many core audio features and most other playlist-enhancing modules like Monks Audio or Playlist Enchantment.
 
 ## Planned Features
 
@@ -46,7 +46,7 @@
 ## Known Issues
 
 - Pausing during a fade-in may restart the fade from the beginning
-- native Foundry playlist button overflow issue which pushes the buttons off the UI if the name is too long
+- native Foundry playlist button overflow issue which pushes the buttons off the UI if the name is too long (V1.0.0 only)
 
 ## License
 
