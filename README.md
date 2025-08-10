@@ -4,7 +4,8 @@ The **Sound of Silence** is a system-agnostic Foundry VTT module that overhauls 
 It adds cinematic audio transitions, realistic silence gaps, internal sound looping, and fully synchronized crossfades—without forcing you to manually babysit your playlists.
 
 ## Previews
-[https://www.youtube.com/watch?v=sQircI4j2LE](https://youtu.be/gYCDCcZgov8)
+[![Watch the demo](https://img.youtube.com/vi/sQircI4j2LE/maxresdefault.jpg)](https://youtu.be/sQircI4j2LE)
+
 ## Features
 
 ### 🎧 Smooth, Dynamic Playback
