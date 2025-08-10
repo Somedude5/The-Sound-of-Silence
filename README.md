@@ -24,6 +24,7 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
 - Option to play an intro once before entering the loop.
 - Fully synchronized across all players and GM.
 - [![Watch the demo!](images/demo-thumbnail.png)](https://youtu.be/sQircI4j2LE)
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/sQircI4j2LE?si=Wb_Y5oC4qpjfBSVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 🗂 Playlist & Sound Control
 - Loop entire playlist in Sequential, Shuffle, or Simultaneous modes.
