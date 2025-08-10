@@ -3,16 +3,15 @@
 The **Sound of Silence** is a system-agnostic Foundry VTT module that overhauls how ambient music plays, fades, and loops in your games.  
 It adds cinematic audio transitions, realistic silence gaps, internal sound looping, and fully synchronized crossfades—without forcing you to manually babysit your playlists.
 
-## Previews
-[![Watch the demo](https://img.youtube.com/vi/sQircI4j2LE/maxresdefault.jpg)](https://youtu.be/sQircI4j2LE)
-
 ## Features
 
 ### 🎧 Smooth, Dynamic Playback
 - **Per-playlist silence gaps** — insert configurable pauses between sounds to simulate natural music breaks. Supports:
   - Static silence (fixed length)
   - Random silence within a range
+  - [![Watch the demo!](images/demo-thumbnail.png)]()
 - **Per-playlist automatic crossfade** — seamlessly fades between sounds based on the configured fade-out duration.
+  - [![Watch the demo!](images/demo-thumbnail.png)]()
 - **Global fade-in for sound starts** — gently ramps up volume for a polished, professional feel.
 
 ### 🎚 Professional Audio Fades
@@ -24,6 +23,7 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
 - **Internal Loop-Within-Sound** — choose a section of a sound (by start and end times) and loop it seamlessly with a crossfade between loops.
 - Option to play an intro once before entering the loop.
 - Fully synchronized across all players and GM.
+- [![Watch the demo!](images/demo-thumbnail.png)](https://youtu.be/sQircI4j2LE)
 
 ### 🗂 Playlist & Sound Control
 - Loop entire playlist in Sequential, Shuffle, or Simultaneous modes.
