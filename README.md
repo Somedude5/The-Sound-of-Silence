@@ -9,9 +9,9 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
 - **Per-playlist silence gaps** — insert configurable pauses between sounds to simulate natural music breaks. Supports:
   - Static silence (fixed length)
   - Random silence within a range
-  - [![Watch the demo!](images/demo-thumbnail.png)]()
+  - [![Watch the demo!](images/demo-thumbnail.png)](https://www.youtube.com/watch?v=geR8R4xoO3M)
 - **Per-playlist automatic crossfade** — seamlessly fades between sounds based on the configured fade-out duration.
-  - [![Watch the demo!](images/demo-thumbnail.png)]()
+  - [![Watch the demo!](images/demo-thumbnail.png)](https://www.youtube.com/watch?v=Q0TLxQKOUdw)
 - **Global fade-in for sound starts** — gently ramps up volume for a polished, professional feel.
 
 ### 🎚 Professional Audio Fades
