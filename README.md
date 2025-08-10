@@ -69,7 +69,7 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
 ### Manual
 - Paste the Manifest URL into Foundry's Install Module dialog.
 
-## 🚀 Usage
+## Usage
 1. Open the Playlist Directory.
 2. Use the toggle buttons in each playlist header to enable:
    - Silent Gaps between sounds
@@ -91,7 +91,7 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
 - You can enable either Auto-Crossfade or Enable Silence at one time (mutually exclusive by design).
 - Due to technical constraints, the pause button is disabled between internal looping sounds while a fade-in/out is active to prevent double playback.
 
-## 🧩 Planned Features
+## Planned Features
 - Crossfade between different playlists.
 - Allow sounds to be set as intros and then connected to other playlists (e.g., play *Hard-Combat-Intro* from an Intro playlist, which then automatically switches to the *Hard-Combat* playlist when finished).
 - Simultaneous use of Silence Gaps and Crossfade.
@@ -101,7 +101,7 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
   
  **Better user feedback** via the [GitHub Issues](https://github.com/Somedude5/The-Sound-of-Silence/issues) page.
 
-## 🐞 Known Issues
+## Known Issues
 - Pausing during a fade-in may restart the fade from the beginning.
 - In v1.x (Foundry v12 builds) long playlist names may push toggle buttons out of view.  
   Also, features like playlist looping and true internal sound looping are not functional in that version.
