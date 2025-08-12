@@ -94,7 +94,6 @@ It adds cinematic audio transitions, realistic silence gaps, internal sound loop
 ## Planned Features
 - Crossfade between different playlists.
 - Allow sounds to be set as intros and then connected to other playlists (e.g., play *Hard-Combat-Intro* from an Intro playlist, which then automatically switches to the *Hard-Combat* playlist when finished).
-- Simultaneous use of Silence Gaps and Crossfade.
 - More advanced shuffle/cycle patterns.
 - UI refinements and code optimization.
 - Fix edge-case bugs with pausing, skipping, and stopping playback.
