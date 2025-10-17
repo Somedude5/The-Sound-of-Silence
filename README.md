@@ -1,4 +1,5 @@
 # The Sound of Silence
+[![Release](https://img.shields.io/github/v/release/Somedude5/The-Sound-of-Silence)](https://github.com/Somedude5/The-Sound-of-Silence/releases/latest) [![Downloads@latest](https://img.shields.io/github/downloads/Somedude5/The-Sound-of-Silence/latest/total)](https://github.com/Somedude5/The-Sound-of-Silence/releases/latest) [![Total Downloads](https://img.shields.io/github/downloads/Somedude5/The-Sound-of-Silence/total)](https://github.com/Somedude5/The-Sound-of-Silence/releases)
 
 The **Sound of Silence** is a system-agnostic Foundry VTT module that overhauls how playlisted music plays, fades, and loops in your games.  
 It adds cinematic audio transitions, realistic silence gaps, internal sound looping, and fully synchronized crossfades—without forcing you to manually babysit your playlists.
