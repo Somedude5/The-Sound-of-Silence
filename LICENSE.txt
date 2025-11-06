@@ -1,16 +1,30 @@
-atSound of Silence
-Copyright © 2025 Somedude5
-All rights reserved. Published June 16, 2025.
+# Sound of Silence License
+Copyright © 2025 GnollStack (formerly Somedude5)
 
-Permission is granted to use and share this software freely for personal, non-commercial use with attribution.
+## Permitted Use
+You may:
+- Use this module freely for personal, non-commercial purposes
+- Modify the source code for personal use or to contribute improvements
+- Fork this repository for non-commercial development
+- Submit pull requests with bug fixes or enhancements
+- Share the unmodified module with proper attribution
 
+## Restrictions
 You may NOT:
-- Modify or create derivative works based on this software
-- Distribute altered or repackaged versions
-- Use this software in commercial products, paid modules, or monetized campaigns
+- Use this module or derivatives in commercial products without written permission
+- Sell or charge for access to this module or modified versions
+- Remove or alter copyright notices or attribution
 
-If you wish to modify, translate, fork, or incorporate this code into other software, you must request and receive written permission from the author.
+## Contributing
+By submitting a pull request, you agree to license your contributions under
+the same terms as this project and grant the copyright holder the right to
+relicense your contributions.
 
-For licensing requests, bug reports, or contributions, please contact me at: https://github.com/Somedude5/The-Sound-of-Silence/issues
+## Commercial Licensing
+For commercial use, paid modules, or inclusion in monetized products:
+📧 Contact: https://github.com/Somedude5/The-Sound-of-Silence/issues
 
-This software is provided "as is" without warranty of any kind.
+## Warranty Disclaimer
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS ARE NOT LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF
+THIS SOFTWARE.
