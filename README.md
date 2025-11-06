@@ -93,7 +93,7 @@ Fade between emotional beats with professional crossfades
 
 ---
 
-## 📦 Feature Overview
+## Feature Overview
 
 ### 🔁 **Advanced Looping**
 
