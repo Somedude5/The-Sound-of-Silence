@@ -287,7 +287,7 @@ Currently tracking [open issues on GitHub](https://github.com/Somedude5/The-Soun
 
 
 
-### 🔮 Future Considerations
+###  Future Considerations
 - [ ] Cross-playlist crossfading, fade from Exploration → Combat playlists
 - [ ] Intro → Playlist linking, play intro track, then auto-switch to looping playlist
 - [ ] Preset system (save/load/share loop configurations)
@@ -297,7 +297,7 @@ Currently tracking [open issues on GitHub](https://github.com/Somedude5/The-Soun
 
 ---
 
-## 🏗️ For Developers
+## For Developers
 
 ### Architecture Highlights
 This module implements professional game audio patterns:
@@ -337,7 +337,7 @@ This module represents **hundreds of hours** of research, development, testing, 
 ### Ways You Can Help:
 - ⭐ **Star this repository** if you find it useful
 - 🐛 **Report bugs** with detailed reproduction steps
-- 📝 **Share your use cases** in GitHub Discussions or on reddit
+- 📝 **Share your use cases** in GitHub Discussions or on Reddit
 - 🎥 **Create tutorial videos** or write guides
 
 ---
@@ -354,9 +354,9 @@ For commercial licensing inquiries, contact me directly on Discord or Reddit.
 
 ---
 
-## 🙏 Credits
+## Credits
 
-**Created by:** GnollStack (Somedude5)
+**Created by:** GnollStack
 **Special Thanks to:** The Foundry VTT community, early testers, and everyone who provided feedback
 
 **Inspired by:** The many awesome free modules folks have built over the years like MIDI-QOL or FXMaster and years of frustration with basic playlist systems 😄
