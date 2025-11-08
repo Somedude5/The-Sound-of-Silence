@@ -278,9 +278,7 @@ Currently tracking [open issues on GitHub](https://github.com/Somedude5/The-Soun
 
 ## 🗺️ Roadmap
 
-### 🎯 Next Release (v3.0)
-- [ ] Advanced shuffle patterns, weighted random, round-robin with memory
-- [ ] Change over repository to new dev account
+### 🎯 Next Release (v13.11.0)
 - [ ] Ability to Play Loop Segments in any Order, so go from segment one from 1:00-1:45 to a segment at 00:20-00:40
 - [ ] Redesigned Audio Player Menu, More UI buttons specific to Loop Segments like skipping/Breaking Loops
 
