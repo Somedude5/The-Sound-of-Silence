@@ -8,7 +8,7 @@
 ![Downloads@latest](https://img.shields.io/github/downloads/Somedude5/The-Sound-of-Silence/latest/total)
 [![Foundry VTT](https://img.shields.io/badge/Foundry-v13-informational)](https://foundryvtt.com)
 
-> Professional audio engineering for your tabletop RPG. Create complex musical narratives with seamless loops, cinematic crossfades, and dynamic silence—without touching a single audio file.
+> Professional audio engineering for your tabletop RPG. Create complex musical compositions with seamless loops, cinematic crossfades, and dynamic silence—without touching a single audio file.
 
 ---
 
