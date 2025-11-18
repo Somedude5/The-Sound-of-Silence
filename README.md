@@ -24,9 +24,9 @@
 
 | Feature | Demo Video | What You'll See |
 |---------|------------|-----------------|
-| **Silence Gaps** | [▶️ 1 min](https://www.youtube.com/watch?v=geR8R4xoO3M) | Add natural pauses between tracks, static or random |
-| **Crossfading** | [▶️ 1 min](https://www.youtube.com/watch?v=Q0TLxQKOUdw) | Seamless transitions without harsh cuts |
-| **Internal Loops** | [▶️ 2 min](https://youtu.be/sQircI4j2LE) | Create intro → loop → outro structures, True Crossfade! |
+| **Silence Gaps** | [▶️ 1 min](https://youtu.be/qWQ8Ci46iiw) | Add natural pauses between tracks, static or random |
+| **Crossfading** | [▶️ 1 min](https://youtu.be/7K72lde_jus) | Seamless transitions without harsh cuts |
+| **Internal Loops** | [▶️ 2 min](https://youtu.be/ykLuKt_UPlg) | Create intro → loop → outro structures, True Crossfade! |
 
 ---
 
