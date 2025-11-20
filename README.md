@@ -17,7 +17,7 @@
 **Get started in 30 seconds:**
 
 1. **Install** from Foundry's Add-on Modules browser (search "Sound of Silence")
-2. **Open any playlist** → Click the toggle buttons in the header (🎵 🔀 🔁)
+2. **Open any playlist** → Click the toggle buttons in the header ( 🔀 🔁)
 3. **Configure** individual sounds with the orange loop icon or playlist settings
 
 ## Why The Sound of Silence?
@@ -32,22 +32,22 @@
 
 ## What This Module Adds
 
-### 🎬 **Cinema-Quality Audio**
-- **Equal-power crossfades** — The same technology used in professional DAWs like Logic Pro and Ableton
+###  **Cinema-Quality Audio**
+- **Equal-power crossfades** — Similar technology used in professional DAWs like Logic Pro and Ableton
 - **Exponential fade curves** — Perceptually linear fading that sounds natural to human hearing (no more abrupt volume jumps!)
 - **Glitch-free transitions** — Dual-buffer architecture ensures seamless playback without audio pops or stutters
 
-### 🎮 **Game Audio Features**
+###  **Game Audio Features**
 - **Multi-segment sequencer** — Design complex tracks: Intro → Loop A → Loop B → Outro, each with configurable repeat counts
 - **Dynamic silence gaps** — Add breathing room between tracks with static or randomized durations
 - **Skip-to-loop** — Jump directly to your loop point for instant atmosphere building
 
-### ⚡ **Zero Workflow Disruption**
+###  **Zero Workflow Disruption**
 - **One-click toggles** — Enable features directly from playlist headers, no digging through menus
 - **Real-time sync** — All crossfades, loops, and transitions perfectly synchronized across GM and players
 - **Works with existing files** — No need to pre-edit your audio, configure everything in Foundry
 
-### 🛠️ **Professional Engineering**
+###  **Professional Engineering**
 - Built on Web Audio API for sample-accurate timing
 - Audio-thread scheduling eliminates main-thread performance issues
 - Automatic memory management prevents leaks during long sessions
@@ -55,7 +55,7 @@
 ---
 
 <details>
-<summary>📸 <strong>UI Screenshots</strong></summary>
+<summary> <strong>UI Screenshots</strong></summary>
 
 ### Playlist Header Controls
 <img width="271" alt="Toggle buttons for silence, crossfade, and loop" src="https://github.com/user-attachments/assets/f8f895d2-091a-4128-9531-539f7a7becdc" />
@@ -70,7 +70,7 @@
 
 ---
 
-## 💡 Perfect For
+##  Perfect For
 
 **Combat Encounters**  
 Design dynamic battle music: *Tension intro* → *combat loop* → *victory fanfare*
@@ -94,7 +94,7 @@ Fade between emotional beats with professional crossfades
 
 ## Feature Overview
 
-### 🔁 **Advanced Looping**
+###  **Advanced Looping**
 
 #### Internal Loop-Within-Sound
 Create professional game audio structures:
@@ -117,7 +117,7 @@ Create professional game audio structures:
 
 ---
 
-### 🎧 **Dynamic Playback**
+###  **Dynamic Playback**
 
 #### Configurable Silence Gaps
 - Insert pauses between tracks to simulate natural music flow
@@ -138,7 +138,7 @@ Create professional game audio structures:
 
 ---
 
-### 🗂️ **Playlist Management**
+###  **Playlist Management**
 
 - **Loop Entire Playlist** — Automatically restart in Sequential, Shuffle, or Simultaneous modes
 - **Volume Normalization** — Set a target volume for all tracks with per-sound overrides
@@ -147,7 +147,7 @@ Create professional game audio structures:
 
 ---
 
-### 🖥️ **Integrated UI**
+###  **Integrated UI**
 
 #### Playlist Header Toggles
 -  **Enable Silence** — Quick toggle for gap injection
@@ -155,8 +155,7 @@ Create professional game audio structures:
 -  **Loop Entire Playlist** — Shows as green underline + shuffle icon when active
 
 #### Per-Sound Controls
-- 🟠 **Orange circle icon** — Toggle internal looping without opening config
-- 🎵 **Active loop indicator** — Visual feedback when a sound is looping
+-  **Orange circle icon** — Toggle internal looping without opening config
 
 #### Configuration Dialogs
 - **Playlist Config:** Fade-in, silence settings, crossfade toggle, volume normalization
@@ -164,7 +163,7 @@ Create professional game audio structures:
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Method 1: From Foundry VTT (Recommended)
 1. In Foundry, go to **Add-on Modules** → **Install Module**
@@ -186,7 +185,7 @@ Create professional game audio structures:
 
 ---
 
-## 🎯 Usage Guide
+##  Usage Guide
 
 ### Basic Setup
 
@@ -199,7 +198,7 @@ Create professional game audio structures:
 2. **You can turn these On or Off at will**
    - Open the **Playlist Directory**
    - Click the toggle buttons in any playlist header:
-     - 🤫 = Silence Gaps
+     - ⌛ = Silence Gaps
      - 🔀 = Auto-Crossfade
      - 🔁 = Loop Playlist
 
@@ -244,9 +243,9 @@ Segment 4: 04:45 - 06:00 (Victory, loop 1x, play through)
 
 ---
 
-## 🌟 Community
+##  Community
 
-- **⭐ Star this repo** if you find it useful!
+- ** Star this repo** if you find it useful!
 
 - **🐛 [Report Bugs](https://github.com/Somedude5/The-Sound-of-Silence/issues)** — Help improve the module with detailed reproduction steps
 - **💡 [Request Features](https://github.com/Somedude5/The-Sound-of-Silence/issues)** — Shape the roadmap with your ideas, If its within the scope of the module and relatively easy to create there is high chance Ill do it!
@@ -256,10 +255,10 @@ Segment 4: 04:45 - 06:00 (Victory, loop 1x, play through)
 ## 🔧 Compatibility
 
 ### Tested & Compatible With:
-- ✅ **Monk's Enhanced Audio** — Fully compatible
-- ✅ **Playlist Enhancements** — Works seamlessly
-- ✅ **All game systems** — System-agnostic design
-- ✅ **Foundry VTT v13+** — Native compatibility
+- ✅ **Monk's Enhanced Audio**
+- ✅ **Playlist Enhancements**
+- ✅ **All game systems**
+- ✅ **Foundry VTT v13+**
 
 ### Known Conflicts:
 - None reported! If you find a compatibility issue, please [open an issue](https://github.com/Somedude5/The-Sound-of-Silence/issues).
@@ -270,19 +269,9 @@ Segment 4: 04:45 - 06:00 (Victory, loop 1x, play through)
 
 Currently tracking [open issues on GitHub](https://github.com/Somedude5/The-Sound-of-Silence/issues):
 
-**Active Issues:**
-- Pausing during fade-in may restart the fade from the beginning
-- Sounds may occasionally fail to fade out properly when stopped, particularly when stopped during an active fade
-
 ---
 
 ## 🗺️ Roadmap
-
-### 🎯 Next Release (v13.11.0)
-- [ ] Ability to Play Loop Segments in any Order, so go from segment one from 1:00-1:45 to a segment at 00:20-00:40
-- [ ] Redesigned Audio Player Menu, More UI buttons specific to Loop Segments like skipping/Breaking Loops
-
-
 
 ###  Future Considerations
 - [ ] Cross-playlist crossfading, fade from Exploration → Combat playlists
@@ -291,6 +280,7 @@ Currently tracking [open issues on GitHub](https://github.com/Somedude5/The-Soun
 - [ ] Playlist automation triggers (conditions: "on combat start", "on scene change")
 - [ ] API expansion for macro/module integration
 - [ ] Building out the Performance profiler and diagnostics dashboard more
+- [ ] Ability to Play Loop Segments in any Order, so go from segment one from 1:00-1:45 to a segment at 00:20-00:40
 
 ---
 
