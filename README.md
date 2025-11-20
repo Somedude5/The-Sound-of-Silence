@@ -346,7 +346,7 @@ For commercial licensing inquiries, contact me directly on Discord or Reddit.
 **Created by:** GnollStack
 **Special Thanks to:** The Foundry VTT community, early testers, and everyone who provided feedback
 
-**Inspired by:** The many awesome free modules folks have built over the years like MIDI-QOL or FXMaster and years of frustration with basic playlist systems 😄
+**Inspired by:** The many awesome free modules folks have built over the years like MIDI-QOL or FXMaster and years of frustration with basic playlist systems!
 
 ---
 
