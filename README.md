@@ -317,7 +317,7 @@ console.log(metrics.crossfades.total); // Total crossfades since module load
 
 ---
 
-## 🤝 Support Development
+## Support Development
 
 This module represents **hundreds of hours** of research, development, testing, and refinement. It implements professional audio engineering techniques that are typically only found in commercial game engines.
 
@@ -329,7 +329,7 @@ This module represents **hundreds of hours** of research, development, testing, 
 
 ---
 
-## 📜 License
+## License
 
 © 2025 **GnollStack** (formerly Somedude5)
 
